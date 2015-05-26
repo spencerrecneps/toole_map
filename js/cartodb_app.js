@@ -1,0 +1,1 @@
+cartodb.createVis(map, 'https://spencergardner.cartodb.com/api/v2/viz/a27ff7b0-fd9c-11e4-ad4e-0e018d66dc29/viz.json');
